@@ -1,0 +1,3 @@
+[submodule "study-javascript-deep-dive"]
+	path = javascript_deep_dive
+	url = https://github.com/hy57in/study-javascript-deep-dive.git
