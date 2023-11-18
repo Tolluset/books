@@ -1,3 +1,6 @@
 [submodule "study-javascript-deep-dive"]
 	path = javascript_deep_dive
 	url = https://github.com/hy57in/study-javascript-deep-dive.git
+[submodule "react-deep-dive-study"]
+	path = react_deep_dive
+	url = https://github.com/react-deep-dive-study/react-deep-dive-study
